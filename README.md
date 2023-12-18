@@ -5,7 +5,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Music app-Spotify API**
+- 🔭 I’m currently working on **Cohort-2**
 
 - 🌱 I’m currently learning **REST API handling , Typescript,Redux**
 
